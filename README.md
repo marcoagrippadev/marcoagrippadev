@@ -1,16 +1,24 @@
-### Hi there 👋
+Olá, bem-vindo ao AgrippaVerso! 
 
-<!--
-**marcoagrippadev/marcoagrippadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nesse ambiente você encontrará a evolução da minha busca constante no Universo da Programção.
 
-Here are some ideas to get you started:
+Sou um Navegante em Mar Aberto, me adaptando a cada momento e situação, e buscando a evolução e reconstrução constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoagrippadev&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+
+##
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,sqlite,ts,html,css,js,git,github,linux,py)](https://skillicons.dev)
+
+
+##
+ 
+<div> 
+  <a href = "mailto:ma.agrippa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marco-agrippa-93aa46273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
