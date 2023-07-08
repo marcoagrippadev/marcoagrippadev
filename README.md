@@ -1,8 +1,6 @@
-Olá, bem-vindo ao AgrippaVerso! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem-vindo+ao+Agrippaverso!;Nesse+ambiente+você+encontrará;a+evolução+da+minha+constante+busca;no+Universo+da+Programção.;Sou+um+Navegante+em+Mar+Aberto,;me+adaptando+a+cada+momento+e+situação,;e+buscando+o+desenvolvimento;e+reconstrução+constantes.+:%29)](https://git.io/typing-svg)
 
-Nesse ambiente você encontrará a evolução da minha busca constante no Universo da Programção.
 
-Sou um Navegante em Mar Aberto, me adaptando a cada momento e situação, e buscando a evolução e reconstrução constante.
 
 <br/>
 
