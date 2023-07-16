@@ -11,7 +11,7 @@
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,sqlite,ts,html,css,js,git,github,linux,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,ts,html,css,js,git,github,linux,py)](https://skillicons.dev)
 
 
 ##
