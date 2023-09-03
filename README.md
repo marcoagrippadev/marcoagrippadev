@@ -7,7 +7,7 @@
 
 <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoagrippadev&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoagrippadev&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
 
 ##
 
