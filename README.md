@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marcoagrippadev&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
 
 ##
-
+**Tecnologias Que Estou Imerso Há Algum Tempo**
 [![My Skills](https://skillicons.dev/icons?i=nodejs,postgresql,ts,html,css,js,git,github,linux)](https://skillicons.dev)
 
 
