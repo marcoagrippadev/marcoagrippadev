@@ -11,6 +11,7 @@
 
 ##
 **Tecnologias Que Estou Imerso Há Algum Tempo**
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,postgresql,ts,html,css,js,git,github,linux)](https://skillicons.dev)
 
 
